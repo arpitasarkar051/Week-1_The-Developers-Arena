@@ -89,7 +89,7 @@ After you type each answer and press Enter, the program prints your personalized
 
 ## Screenshots
 
-Adding actual screenshots after 1 run the program.
+Adding actual screenshots after i run the program.
 
 
 ## How technical requirements are met
