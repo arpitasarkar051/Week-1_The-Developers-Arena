@@ -1,0 +1,21 @@
+requirements.txt
+For this basic script, there are no external libraries, so requirements.txt can be:
+
+# No external dependencies required for this project.
+This still satisfies the convention that requirements.txt exists even when only the Python standard library is used.
+
+For this particular project, the `requirements.txt` file can be very simple because you only use core Python (no external libraries).[5]
+
+Use one of these two options:
+
+### Option 1: Comment-only file (simplest for beginners)
+
+No external dependencies required for this project.
+
+
+This clearly tells that the project runs with just standard Python and nothing needs to be installed with `pip`.
+
+### Option 2: Explicitly state Python version (a bit more formal)
+
+ No external third‑party packages required.
+Project uses core Python 3.
